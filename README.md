@@ -6,10 +6,10 @@ To market my coding skills and provide examples of the projects I've worked on t
 
 ## Contents
 
-[About Me](#about-me)
-[Gallery](#gallery)
-[Contact](#contact)
-[Resume](#resume)
+* [About Me](#about-me)
+* [Gallery](#gallery)
+* [Contact](#contact)
+* [Resume](#resume)
 
 ## About Me
 
