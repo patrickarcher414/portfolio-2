@@ -1,6 +1,7 @@
 import Nav from "./components/Nav"
 import Gallery from './components/Gallery'
 import Footer from './components/Footer'
+import ProjectList from './helpers/ProjectList.js'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <Nav />
     <Gallery />
     <Footer />
+    <ProjectList/>
    </div>
   );
 }
